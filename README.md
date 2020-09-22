@@ -1,2 +1,2 @@
-# jmrogers065.github.io
+# Johnathan's GIS Portfolio
 GIS Portfolio
